@@ -1,0 +1,5 @@
+Which of the following isn’t true about main modules?
+a) When a python file is directly executed, it is considered main module of a program
+b) Main modules may import any number of modules
+c) Special name given to main modules is: __main__
+d) Other main modules can import main modules
