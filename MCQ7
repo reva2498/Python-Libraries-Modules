@@ -13,3 +13,10 @@ from mod2 import change
 #main
 s=[1,2,3]
 change(s)
+
+
+a) [2,4,6]
+b) [1,4,9]
+c) [2,4,6]
+   [1,4,9]
+d) There is a name clash
