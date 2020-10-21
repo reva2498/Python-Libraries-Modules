@@ -1,0 +1,2 @@
+Answer: b
+Explanation: During a Python program execution, there are as many as three namespaces – built-in namespace, global namespace and local namespace.
