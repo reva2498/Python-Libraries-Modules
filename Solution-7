@@ -1,0 +1,3 @@
+Answer: d
+Explanation: A name clash is when two different entities with the same identifier become part of the same scope. 
+Since both the modules have the same function name, there is a name clash.
