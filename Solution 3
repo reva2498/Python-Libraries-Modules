@@ -1,0 +1,2 @@
+Answer: a
+Explanation: Program code making use of a given module is called the client of the module. There may be multiple clients for a module.
