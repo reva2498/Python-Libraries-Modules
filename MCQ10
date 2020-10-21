@@ -1,0 +1,9 @@
+What will be the output of the following Python code?
+
+from math import factorial
+print(math.factorial(5))
+
+a) 120
+b) Nothing is printed
+c) Error, method factorial doesn’t exist in math module
+d) Error, the statement should be: print(factorial(5))
