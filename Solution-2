@@ -1,0 +1,2 @@
+Answer: c
+Explanation: The total size of the program remains the same regardless of whether modules are used or not. Modules simply divide the program.
