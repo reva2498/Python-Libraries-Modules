@@ -1,0 +1,15 @@
+What will be the output of the following Python code?
+
+#mod1
+def change(a):
+    b=[x*2 for x in a]
+    print(b)
+#mod2
+def change(a):
+    b=[x*x for x in a]
+    print(b)
+from mod1 import change
+from mod2 import change
+#main
+s=[1,2,3]
+change(s)
