@@ -1,0 +1,2 @@
+Answer: d
+Explanation: In the “from-import” form of import, the imported identifiers (in this case factorial()) aren’t specified along with the module name.
